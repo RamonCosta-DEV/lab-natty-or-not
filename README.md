@@ -20,23 +20,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Morena linda ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Gerar a imagem de uma modelo para um tipo de campanha publicitária voltada a mulheres negras .
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
+Eu usei o copilot ou seja a ferramenta do Bing.
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Apenas gerei o prompt e passei a imagem da modelo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+A modelo gerada foi bem satisfatória.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
 ### Exemplos e Insigths
 
